@@ -1,8 +1,3 @@
----
-
-### 📁 **Round 1B – README.md**
-
-markdown
 # 🤖 Adobe India Hackathon – Round 1B: Persona-Driven Document Intelligence
 
 ## 🧠 Challenge Overview
